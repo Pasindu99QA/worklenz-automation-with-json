@@ -3,6 +3,7 @@ package org.example;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.Select;
+//import org.openqa.selenium.support.ui.Sleeper;
 
 import java.awt.*;
 import java.awt.datatransfer.Clipboard;
@@ -10,6 +11,7 @@ import java.awt.datatransfer.StringSelection;
 
 import java.awt.datatransfer.StringSelection;
 import java.awt.event.KeyEvent;
+import java.time.Duration;
 
 import static org.openqa.selenium.Keys.ENTER;
 import static org.openqa.selenium.Keys.getKeyFromUnicode;
@@ -17,7 +19,7 @@ import static org.openqa.selenium.Keys.getKeyFromUnicode;
 public class Login {
     public static void main(String[] args) throws InterruptedException, AWTException {
 
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\cey\\Desktop\\setups\\chromedriver_win32\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "F:\\Automation Soft\\chromedriver_win32\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
 
         driver.get("https://playpointz.ceydigitalworld.com/admin/login");
@@ -27,6 +29,7 @@ public class Login {
         driver.findElement(By.name("username")).sendKeys("superAdmin");
         driver.findElement(By.id("password-input")).sendKeys("admin@play#pointz@sh");
         driver.findElement((By.className("btn"))).click();
+//        Sleeper Thread = null;
         Thread.sleep(5000);
 
 
@@ -171,21 +174,7 @@ public class Login {
         //choose thumbnail image
 
         Thread.sleep(2000);
-       // WebElement choose3 = driver.findElement(By.xpath("        WebElement choose2 = driver.findElement(By.xpath(\"//*[@id=\\\"itemModal\\\"]/div/div/form/div[2]/div[4]/div/button\"));\n"));
-       // choose3.click();
-//Thread.sleep(2000);
-      // StringSelection Selection2 = new StringSelection("C:\\Users\\cey\\Downloads\\thum.jpg");
-       // clipboard.setContents(Selection2,null);
 
-
-
-    // Robot robot = new Robot();
-    // robot.keyPress(KeyEvent.VK_CONTROL);
-    // robot.keyPress(KeyEvent.VK_V);
-    // robot.keyRelease(KeyEvent.VK_V);
-    // robot.keyRelease(KeyEvent.VK_CONTROL);
-   //  robot.keyPress(KeyEvent.VK_ENTER);
-    // robot.keyRelease(KeyEvent.VK_ENTER);
 
 
         Thread.sleep(3000);
