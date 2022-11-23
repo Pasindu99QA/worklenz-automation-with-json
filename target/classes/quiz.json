@@ -37,7 +37,7 @@
   {
     "name": 27,
     "question": "Who is mickey mouse?",
-    "category": "Entertainement",
+    "category": "Entertainment",
     "answerOne": "A cartoon character",
     "answerTwo": "Actor",
     "answerThree": "Singer",
@@ -126,7 +126,7 @@
   {
     "name": 41,
     "question": "How many continents are there?",
-    "category": "Geograp",
+    "category": "Geography",
     "answerOne": 7,
     "answerTwo": 5,
     "answerThree": 8,
@@ -215,7 +215,7 @@
   {
     "name": 51,
     "question": "In Lion King movie, what animal is Nala?",
-    "category": "Entertainement",
+    "category": "Entertainment",
     "answerOne": "Lion",
     "answerTwo": "Weasle",
     "answerThree": "Pig",
@@ -469,7 +469,7 @@
   {
     "name": 80,
     "question": "Who is the actor who acts as Willy Wonka?",
-    "category": "Entertainement",
+    "category": "Entertainment",
     "answerOne": "Johny Depp",
     "answerTwo": "Leonardo Dicaprio",
     "answerThree": "Tom Cruise",
@@ -577,7 +577,7 @@
   {
     "name": 92,
     "question": "What is Batman's city?",
-    "category": "Entertainement",
+    "category": "Entertainment",
     "answerOne": "Gotham",
     "answerTwo": "Macao",
     "answerThree": "Amsterdam",
@@ -603,7 +603,7 @@
   {
     "name": 95,
     "question": "What object a male penguine often gift to a female penguine to win her over?",
-    "category": "Environmrnt",
+    "category": "Environment",
     "answerOne": "a pebble",
     "answerTwo": "a stone",
     "answerThree": "a snow ball",
@@ -657,7 +657,7 @@
   {
     "name": 101,
     "question": "Which of the following is not a horror movie?",
-    "category": "Entertainement",
+    "category": "Entertainment",
     "answerOne": "Inception",
     "answerTwo": "Shutter",
     "answerThree": "Annabelle",
@@ -675,7 +675,7 @@
   {
     "name": 103,
     "question": "Who is not a character that can be seen in Victor Hugo's famous novel Notredam De Paris?",
-    "category": "Entertainement",
+    "category": "Entertainment",
     "answerOne": "Jean Valjean",
     "answerTwo": "Esmeralda",
     "answerThree": "Djali",
@@ -684,7 +684,7 @@
   {
     "name": 104,
     "question": "Which one does not belong to Dan Brown's novels?",
-    "category": "Entertainement",
+    "category": "Entertainment",
     "answerOne": "The Guardian",
     "answerTwo": "The lost Symbol",
     "answerThree": "Origin",

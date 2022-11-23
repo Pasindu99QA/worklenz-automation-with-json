@@ -42,7 +42,7 @@
     "answerTwo": "Saxaphone",
     "answerThree": "Mouth Organ",
     "answerFour": "Flute",
-    "category": "Entertainement"
+    "category": "Entertainment"
   },
   {
     "name": "36-hard",
@@ -204,7 +204,7 @@
     "answerTwo": 0,
     "answerThree": 90,
     "answerFour": 180,
-    "category": "Entertainement"
+    "category": "Entertainment"
   },
   {
     "name": "54-hard",
@@ -463,7 +463,7 @@
     "answerTwo": "Agatha Cristie",
     "answerThree": "Malala Yousafzai",
     "answerFour": "Jane Addams",
-    "category": "Entertainement"
+    "category": "Entertainment"
   },
   {
     "name": "83-hard",
@@ -571,7 +571,7 @@
     "answerTwo": 12,
     "answerThree": 0,
     "answerFour": 1,
-    "category": "Entertainement"
+    "category": "Entertainment"
   },
   {
     "name": "95-hard",
@@ -597,7 +597,7 @@
     "answerTwo": "America",
     "answerThree": "india",
     "answerFour": "pakistan",
-    "category": "Environmrnt"
+    "category": "Environment"
   },
   {
     "name": "98-hard",
@@ -649,7 +649,7 @@
     "answerOne": "Burj Khalifa",
     "answerTwo": "Shanghai Center Building",
     "answerThree": "One WTC",
-    "category": "Entertainement"
+    "category": "Entertainment"
   },
   {
     "name": "104-hard",
@@ -667,7 +667,7 @@
     "answerTwo": "Washington, United States",
     "answerThree": "New York, Uniter States",
     "answerFour": "Berlin, Germany",
-    "category": "Entertainement"
+    "category": "Entertainment"
   },
   {
     "name": "106-hard",
@@ -676,7 +676,7 @@
     "answerTwo": "October 6",
     "answerThree": "September 8",
     "answerFour": "July 23",
-    "category": "Entertainement"
+    "category": "Entertainment"
   },
   {
     "name": "107-hard",
@@ -870,7 +870,7 @@
     "answerOne": "Shirley Amarasinghe",
     "answerTwo": "Ali Sabry",
     "answerThree": "Maithripala Sirisena",
-    "category": "Entertainement"
+    "category": "Entertainment"
   },
   {
     "name": "129-hard",
@@ -1022,7 +1022,7 @@
     "answerTwo": "Theeta",
     "answerThree": "Delta",
     "answerFour": "Alpha",
-    "category": "Entertainement"
+    "category": "Entertainment"
   },
   {
     "name": "146-hard",

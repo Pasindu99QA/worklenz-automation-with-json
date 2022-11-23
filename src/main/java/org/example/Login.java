@@ -22,7 +22,10 @@ public class Login {
         System.setProperty("webdriver.chrome.driver", "F:\\Automation Soft\\chromedriver_win32\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
 
-        driver.get("https://playpointz.ceydigitalworld.com/admin/login");
+       // driver.get("https://playpointz.ceydigitalworld.com/admin/login");
+
+        //uat
+        driver.get("https://playpointz.ceydigitalworld.com/admin/campaigns");
 
         driver.manage().window().maximize();
 

@@ -33,7 +33,7 @@ public class Quiz {
         System.setProperty("webdriver.chrome.driver", "F:\\Automation Soft\\chromedriver_win32\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
 
-        driver.get("https://playpointz.ceydigitalworld.com/admin/login");
+        driver.get("https://uat.playpointz.com/admin/login");
 
         driver.manage().window().maximize();
 
@@ -54,10 +54,10 @@ public class Quiz {
         // convert json to array
         ObjectMapper mapper = new ObjectMapper();
         try {
-            QuizModel[] quizList= mapper.readValue(new File("src/main/resources/hard.json"),QuizModel[].class);
+            QuizModel[] quizList= mapper.readValue(new File("src/main/resources/quiz.json"),QuizModel[].class);
 
             Thread.sleep(1000);
-            for (int i=67;i< quizList.length;i++){
+            for (int i=0;i< quizList.length;i++){
                 System.out.println("Name "+quizList[i].getAnswerFour());
 
                 //Create btn
