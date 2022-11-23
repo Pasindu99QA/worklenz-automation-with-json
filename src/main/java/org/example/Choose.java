@@ -15,8 +15,8 @@ public class Choose {
 
             driver.get("https://playpointz.ceydigitalworld.com/admin/items");
 
-            driver.findElement(By.name("username")).sendKeys("superAdmin");
-            driver.findElement(By.id("password-input")).sendKeys("admin@play#pointz@sh");
+            driver.findElement(By.name("username")).sendKeys("****");
+            driver.findElement(By.id("password-input")).sendKeys("********");
             driver.findElement((By.className("btn"))).click();
 
 
