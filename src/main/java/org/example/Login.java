@@ -29,8 +29,8 @@ public class Login {
 
         driver.manage().window().maximize();
 
-        driver.findElement(By.name("username")).sendKeys("superAdmin");
-        driver.findElement(By.id("password-input")).sendKeys("admin@play#pointz@sh");
+        driver.findElement(By.name("username")).sendKeys("****");
+        driver.findElement(By.id("password-input")).sendKeys("********");
         driver.findElement((By.className("btn"))).click();
 //        Sleeper Thread = null;
         Thread.sleep(5000);
